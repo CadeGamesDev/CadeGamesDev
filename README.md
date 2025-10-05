@@ -1,15 +1,14 @@
 <div align="center">
-<h1 align="center">Hi! I am Christhofer Arroyo</a> 👋</h1>
+  <h1 align="center">Hi! I am Christhofer Arroyo 👋</h1>
+  <img src="https://github.com/CadeGamesDev/CadeGamesDev/blob/main/Banner_Cadejo.png?raw=true" alt="Christhofer Arroyo" width="300"/>
 </div>
-<img src="https://github.com/CadeGamesDev/CadeGamesDev/blob/main/Banner_Cadejo.png" alt="Christhofer Arroyo" width="100" aling: center>
-
 
 
 ## About Me
 
 
-- 📲 Web developer in progress
-- Game Developer in Progress
+- 💻 Web Developer in progress
+- 🎮 Game Developer in Progress
 
 <br>
 
