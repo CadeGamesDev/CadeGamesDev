@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 💻 Web Developer in progress  
-- 🎮 Game Developer in progress  https://img.shields.io/badge/Unity-2D%20Game%20Dev-black?style=for-the-badge&logo=unity) 
+- 🎮 Game Developer in progress  UNITY
 
 🧠 Passionate about building immersive 2D games in Unity and crafting elegant web experiences  
 🚀 Always learning, always iterating — welcome to CadeGamesDev!
