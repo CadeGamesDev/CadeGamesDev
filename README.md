@@ -19,8 +19,9 @@
 |  |  |
 |------|-------|
 | 🎮 Unity (2D Physics, Animations, Game Feel) | ![](https://img.shields.io/badge/Unity-2D%20Game%20Dev-black?style=for-the-badge&logo=unity) |
-| 💻 HTML, CSS, JavaScript in progress, React → soon | ![](https://img.shields.io/badge/JavaScript-Web%20Dev-yellow?style=for-the-badge&logo=javascript) |
+| 💻 HTML, CSS, JavaScript in progress | ![](https://img.shields.io/badge/JavaScript-Web%20Dev-yellow?style=for-the-badge&logo=javascript) |
 | ⚙️ Git & GitHub | ![](https://img.shields.io/badge/GitHub-Projects-blue?style=for-the-badge&logo=github) |
+| ⚛️ React (coming soon) | ![](https://img.shields.io/badge/React-Soon-blue?style=for-the-badge&logo=react) |
 
 ---
 
