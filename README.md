@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 💻 Web Developer in progress  
-- 🎮 Game Developer in progress  UNITY
+- 🎮 Game Developer in progress  (UNITY 2D) 
 
 🧠 Passionate about building immersive 2D games in Unity and crafting elegant web experiences  
 🚀 Always learning, always iterating — welcome to CadeGamesDev!
