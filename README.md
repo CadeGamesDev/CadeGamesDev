@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I am Christhofer Arroyo</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src="https://github.com/CadeGamesDev/CadeGamesDev/blob/main/Banner_Cadejo.png">
 
 
 
